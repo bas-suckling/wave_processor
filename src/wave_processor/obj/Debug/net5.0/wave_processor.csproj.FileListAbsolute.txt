@@ -1,0 +1,16 @@
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\bin\Debug\net5.0\wave_processor.exe
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\bin\Debug\net5.0\wave_processor.deps.json
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\bin\Debug\net5.0\wave_processor.runtimeconfig.json
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\bin\Debug\net5.0\wave_processor.runtimeconfig.dev.json
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\bin\Debug\net5.0\wave_processor.dll
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\bin\Debug\net5.0\ref\wave_processor.dll
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\bin\Debug\net5.0\wave_processor.pdb
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\obj\Debug\net5.0\wave_processor.csprojAssemblyReference.cache
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\obj\Debug\net5.0\wave_processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\obj\Debug\net5.0\wave_processor.AssemblyInfoInputs.cache
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\obj\Debug\net5.0\wave_processor.AssemblyInfo.cs
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\obj\Debug\net5.0\wave_processor.csproj.CoreCompileInputs.cache
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\obj\Debug\net5.0\wave_processor.dll
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\obj\Debug\net5.0\ref\wave_processor.dll
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\obj\Debug\net5.0\wave_processor.pdb
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\obj\Debug\net5.0\wave_processor.genruntimeconfig.cache
