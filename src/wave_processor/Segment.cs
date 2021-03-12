@@ -10,7 +10,6 @@ namespace wave_processor
         //     public int index;
         //     public int duration;
         //     public int dist;
-
         //     List<TrackPoint> coordinates;
 
     }

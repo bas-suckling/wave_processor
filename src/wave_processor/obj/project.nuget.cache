@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MpvewLUDhiqB4QhblYm08apVwhIySLRElN3OG37kEBlEYBWtY0aydeXx0gvrEIyh+hiVg842mRrLvj5LBCyTDg==",
+  "dgSpecHash": "lgELtKdsilx9IrUVyzwy/PX8D/29nWRAEKYJyhIxKjUNZ9NFytqINAjan78cW0H5NmrB/x/JwS68LmSWD/ENPQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\bas.suckling\\projects\\wave_processor\\src\\wave_processor\\wave_processor.csproj",
+  "projectFilePath": "C:\\Users\\bas.suckling\\projects\\wave_processor\\src\\wave_processor\\wave_processor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

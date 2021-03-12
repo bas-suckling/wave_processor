@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bas.suckling\\projects\\wave_processor\\src\\wave_processor\\wave_processor.csproj": {}
+    "C:\\Users\\bas.suckling\\projects\\wave_processor\\src\\wave_processor\\wave_processor.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bas.suckling\\projects\\wave_processor\\src\\wave_processor\\wave_processor.csproj": {
+    "C:\\Users\\bas.suckling\\projects\\wave_processor\\src\\wave_processor\\wave_processor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bas.suckling\\projects\\wave_processor\\src\\wave_processor\\wave_processor.csproj",
+        "projectUniqueName": "C:\\Users\\bas.suckling\\projects\\wave_processor\\src\\wave_processor\\wave_processor.csproj",
         "projectName": "wave_processor",
-        "projectPath": "c:\\Users\\bas.suckling\\projects\\wave_processor\\src\\wave_processor\\wave_processor.csproj",
+        "projectPath": "C:\\Users\\bas.suckling\\projects\\wave_processor\\src\\wave_processor\\wave_processor.csproj",
         "packagesPath": "C:\\Users\\bas.suckling\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bas.suckling\\projects\\wave_processor\\src\\wave_processor\\obj\\",
+        "outputPath": "C:\\Users\\bas.suckling\\projects\\wave_processor\\src\\wave_processor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
