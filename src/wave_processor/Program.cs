@@ -6,7 +6,7 @@ namespace wave_processor
     {
         static void Main(string[] args)
         {
-            RawDataProcessor data = new RawDataProcessor();
+            RawDataParser data = new RawDataParser();
             data.getData();
         }
     }
