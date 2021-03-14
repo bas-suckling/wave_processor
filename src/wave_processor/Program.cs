@@ -7,7 +7,7 @@ namespace wave_processor
         static void Main(string[] args)
         {
             RawDataParser data = new RawDataParser();
-            data.getData();
+            data.ParseXml();
         }
     }
 }
