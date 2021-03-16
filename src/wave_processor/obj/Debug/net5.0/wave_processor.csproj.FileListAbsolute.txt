@@ -14,3 +14,5 @@ C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\obj\Debug\net5.
 C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\obj\Debug\net5.0\ref\wave_processor.dll
 C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\obj\Debug\net5.0\wave_processor.pdb
 C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\obj\Debug\net5.0\wave_processor.genruntimeconfig.cache
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\bin\Debug\net5.0\Tellurian.Geospatial.dll
+C:\Users\bas.suckling\projects\wave_processor\src\wave_processor\obj\Debug\net5.0\wave_processor.csproj.CopyComplete

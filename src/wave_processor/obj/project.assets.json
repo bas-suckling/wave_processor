@@ -1,11 +1,63 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Microsoft.Spatial/7.8.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Spatial.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Spatial.dll": {}
+        }
+      },
+      "Tellurian.Geospatial/2.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Tellurian.Geospatial.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Tellurian.Geospatial.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Microsoft.Spatial/7.8.3": {
+      "sha512": "hFKWwu2TWng9+Ye8j/zIiaFBbRGysplZ/HvSYCfnrXxQ/bl3zIsLRxUgACLcPAoJMhQDeLaRwHYvQGPiJhusoQ==",
+      "type": "package",
+      "path": "microsoft.spatial/7.8.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Microsoft.Spatial.dll",
+        "lib/net45/Microsoft.Spatial.xml",
+        "lib/netstandard1.1/Microsoft.Spatial.dll",
+        "lib/netstandard1.1/Microsoft.Spatial.xml",
+        "lib/netstandard2.0/Microsoft.Spatial.dll",
+        "lib/netstandard2.0/Microsoft.Spatial.xml",
+        "microsoft.spatial.7.8.3.nupkg.sha512",
+        "microsoft.spatial.nuspec"
+      ]
+    },
+    "Tellurian.Geospatial/2.2.0": {
+      "sha512": "IbDAVkGh3yJrQxFzuqIv0EMW4yaHZUQWjfoIWtpCcC28dPrnVoTzfxeYGeL9G2Q0vhehZjYis65c9hLr7JOS9w==",
+      "type": "package",
+      "path": "tellurian.geospatial/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/Tellurian.Geospatial.dll",
+        "tellurian.geospatial.2.2.0.nupkg.sha512",
+        "tellurian.geospatial.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Microsoft.Spatial >= 7.8.3",
+      "Tellurian.Geospatial >= 2.2.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\bas.suckling\\.nuget\\packages\\": {},
@@ -52,6 +104,16 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "Microsoft.Spatial": {
+            "target": "Package",
+            "version": "[7.8.3, )"
+          },
+          "Tellurian.Geospatial": {
+            "target": "Package",
+            "version": "[2.2.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

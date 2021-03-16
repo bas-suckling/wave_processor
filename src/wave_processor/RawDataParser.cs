@@ -3,16 +3,17 @@ using System.IO;
 using System.Linq;
 using System.Xml.Linq;
 using System.Collections.Generic;
-using System.Xml;
+using Microsoft.Spatial;
 
 namespace wave_processor
+
 {
     class RawDataParser
     {
 
         public void ParseXml()
         {
-            var filename = "2020-05-15.gpx";
+            var filename = "2020-05-15_test.gpx";
             var currentDirectory = "C:\\Users\\bas.suckling\\projects\\wave_processor\\src\\wave_processor\\rawData";
             var rawDataFilePath = Path.Combine(currentDirectory, filename);
 
@@ -35,15 +36,31 @@ namespace wave_processor
                            }
                        );
 
+            List<TrackPoint> AllPoints = new List<TrackPoint>();
+
             foreach (var record in records)
             {
-                Console.WriteLine("TrackPoint");
-                Console.WriteLine("Latitude: {0}", record.Latitude);
-                Console.WriteLine("Longitude: {0}", record.Longitude);
-                Console.WriteLine("Time: {0}", record.Time);
-                Console.WriteLine("Hr: {0}", record.Hr);
-                Console.WriteLine();
+                TrackPoint point = new TrackPoint();
+                point.lat = Convert.ToDouble(record.Latitude);
+                point.lng = Convert.ToDouble(record.Longitude);
+                point.timeStamp = Convert.ToDateTime(record.Time);
+                AllPoints.Add(point);
+
+                Console.WriteLine("lat: {0}", point.lat);
+                Console.WriteLine("lng: {0}", point.lng);
+                Console.WriteLine("time: {0}", point.timeStamp);
+
+
             }
+
+
+
+
+        }
+        public string calculateDistance(TrackPoint p1, TrackPoint p2)
+        {
+            var distance = 
+
         }
     }
 

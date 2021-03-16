@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lgELtKdsilx9IrUVyzwy/PX8D/29nWRAEKYJyhIxKjUNZ9NFytqINAjan78cW0H5NmrB/x/JwS68LmSWD/ENPQ==",
+  "dgSpecHash": "ug9/SF2zeWoD9C9EQwm8fOCkA5EmbuLWg21FhdjxSzmtSXXFAHDLrhYwA1XrM4ey/ktapkbO834Hd9xQ9Lqh6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bas.suckling\\projects\\wave_processor\\src\\wave_processor\\wave_processor.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\bas.suckling\\projects\\wave_processor\\src\\wave_processor\\wave_processor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bas.suckling\\.nuget\\packages\\microsoft.spatial\\7.8.3\\microsoft.spatial.7.8.3.nupkg.sha512",
+    "C:\\Users\\bas.suckling\\.nuget\\packages\\tellurian.geospatial\\2.2.0\\tellurian.geospatial.2.2.0.nupkg.sha512"
+  ],
   "logs": []
 }
